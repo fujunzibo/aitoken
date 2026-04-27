@@ -1,5 +1,4 @@
 .idea
-.vscode
 upload
 *.exe
 *.db
@@ -9,7 +8,8 @@ logs
 data
 /web/node_modules
 cmd.md
-.env
 /one-api
 temp
 .DS_Store
+config.bat
+node_modules
